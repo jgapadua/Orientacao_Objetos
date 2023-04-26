@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\bin\Debug\net7.0\08GetSet.exe
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\bin\Debug\net7.0\08GetSet.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\bin\Debug\net7.0\08GetSet.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\bin\Debug\net7.0\08GetSet.dll
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\bin\Debug\net7.0\08GetSet.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.dll
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\refint\08GetSet.dll
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\08GetSet.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\08GetSet\obj\Debug\net7.0\ref\08GetSet.dll

@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\bin\Debug\net7.0\13Abstração.exe
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\bin\Debug\net7.0\13Abstração.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\bin\Debug\net7.0\13Abstração.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\bin\Debug\net7.0\13Abstração.dll
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\bin\Debug\net7.0\13Abstração.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.dll
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\refint\13Abstração.dll
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\13Abstração.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\13Abstração\obj\Debug\net7.0\ref\13Abstração.dll

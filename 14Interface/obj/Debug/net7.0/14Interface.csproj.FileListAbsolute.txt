@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\bin\Debug\net7.0\14Interface.exe
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\bin\Debug\net7.0\14Interface.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\bin\Debug\net7.0\14Interface.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\bin\Debug\net7.0\14Interface.dll
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\bin\Debug\net7.0\14Interface.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.dll
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\refint\14Interface.dll
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\14Interface.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\14Interface\obj\Debug\net7.0\ref\14Interface.dll

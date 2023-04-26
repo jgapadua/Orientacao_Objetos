@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\bin\Debug\net7.0\10Heraça.exe
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\bin\Debug\net7.0\10Heraça.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\bin\Debug\net7.0\10Heraça.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\bin\Debug\net7.0\10Heraça.dll
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\bin\Debug\net7.0\10Heraça.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.dll
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\refint\10Heraça.dll
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\10Heraça.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\10Heraça\obj\Debug\net7.0\ref\10Heraça.dll

@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\bin\Debug\net7.0\07Construtor.exe
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\bin\Debug\net7.0\07Construtor.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\bin\Debug\net7.0\07Construtor.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\bin\Debug\net7.0\07Construtor.dll
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\bin\Debug\net7.0\07Construtor.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.dll
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\refint\07Construtor.dll
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\07Construtor.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\07Construtor\obj\Debug\net7.0\ref\07Construtor.dll

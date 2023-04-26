@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\bin\Debug\net7.0\12Estático.exe
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\bin\Debug\net7.0\12Estático.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\bin\Debug\net7.0\12Estático.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\bin\Debug\net7.0\12Estático.dll
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\bin\Debug\net7.0\12Estático.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.dll
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\refint\12Estático.dll
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\12Estático.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\12Estático\obj\Debug\net7.0\ref\12Estático.dll

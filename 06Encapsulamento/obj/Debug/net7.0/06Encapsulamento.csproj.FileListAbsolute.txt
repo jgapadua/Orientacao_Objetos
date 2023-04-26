@@ -1,0 +1,15 @@
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.exe
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.deps.json
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.runtimeconfig.json
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.dll
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.AssemblyReference.cache
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfo.cs
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.dll
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\refint\06Encapsulamento.dll
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.pdb
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.genruntimeconfig.cache
+C:\users\meta3\source\repos\Orientação a Objetos\06Encapsulamento\obj\Debug\net7.0\ref\06Encapsulamento.dll
